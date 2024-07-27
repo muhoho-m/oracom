@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "469297590974",
+    "project_id": "oracom-380e4",
+    "storage_bucket": "oracom-380e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469297590974:android:a534d9341d79dc55cee4ef",
+        "android_client_info": {
+          "package_name": "com.example.leo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfWL1l6Tj-jk6BtOfkmVOHCLFFWqRVTmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
